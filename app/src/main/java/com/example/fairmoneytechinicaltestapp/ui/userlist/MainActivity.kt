@@ -1,11 +1,10 @@
 package com.example.fairmoneytechinicaltestapp.ui.userlist
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
-import androidx.lifecycle.Observer
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.fairmoneytechinicaltestapp.databinding.ActivityMainBinding
 import com.example.fairmoneytechinicaltestapp.ui.userdetail.UserDetailActivity
