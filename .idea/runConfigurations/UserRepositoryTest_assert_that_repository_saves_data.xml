@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UserRepositoryTest.assert that repository saves data" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+    <module name="FairMoneyTechinicalTestApp.app" />
+    <shortenClasspath name="MANIFEST" />
+    <useClassPathOnly />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.example.fairmoneytechinicaltestapp.datatest.repository.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.example.fairmoneytechinicaltestapp.datatest.repository" />
+    <option name="MAIN_CLASS_NAME" value="com.example.fairmoneytechinicaltestapp.datatest.repository.UserRepositoryTest" />
+    <option name="METHOD_NAME" value="assert that repository saves data" />
+    <option name="TEST_OBJECT" value="method" />
+    <option name="PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
